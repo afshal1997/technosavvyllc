@@ -1,15 +1,9 @@
     <?php include_once('header.php'); ?>
-    <!-- Banner -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 parallax parallax-tn" id="parallax-1" style="background-image: url('./assets/images/home/banner.jpeg');">
-        <!-- Banner -->
         <section id="hero_slider" class="scroll-section">
             <article class="container-fluid slider">
                 <div class="row">
-                    <!--<img class="portal-mob visible-xs" src="/content/dam/web/en/global-resource/background-image/portals.png" alt="Portals"/>-->
                     <div id="banner-carousel" class="middle_content">
-                        <!-- <div class="repeated-css industries-gradient" style="background-image: url(./assets/images/home/banner.jpg);"> 
-                                <img src="" class="slide-image hidden-xs" alt="Providing Sound Successful Solutions to All" /> 
-                            </div> -->
                         <div class="slider-overlay-black"></div>
                         <div class="caption ">
                             <div class="container">
@@ -19,12 +13,10 @@
                                         <h3>Dignify & digitalize the countenance of your inestimable business by perpetuating its digital trail, engraving its achievements, and augmenting your ROI by choosing the comprehensive Government affiliated solution.</h3>
                                         <a href="javascript:void(0)" class="btn btn-shutter-more text-uppercase">EXPLORE MORE</a>
                                     </div>
-                                    <!--col-lg-6 col-md-6 col-sm-6 -->
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 with-sam-logo" data-aos="fade-up">
                                         <img src="./assets/images/home/sam-img.png">
                                     </div>
                                 </div>
-                                <!--ROW -->
                             </div>
                         </div>
                     </div>
@@ -32,7 +24,6 @@
             </article>
             <div id="content-tn"></div>
         </section>
-        <!-- Small Slider -->
         <section id="small_slider" class="small_slider">
             <article class="associate-with">
                 <div class="container">
@@ -59,7 +50,6 @@
             </article>
         </section>
     </div>
-    <!-- Story -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 about-section height-100vh parallax parallax-tn" id="parallax-2" style="background-image: url('./assets/images/home/story-bg.jpg');">
         <section id="about_technado" class="scroll-section relative home_promo_banner">
             <article class="container">
@@ -83,11 +73,9 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="background fullCoverImg ai-powered-core-img about-digital-capabilities"></div> -->
             </article>
         </section>
     </div>
-    <!-- Digital Marketing -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-3" style="background-image: url('./assets/images/home/digital-bg.jpg');">
         <section id="Digital_Marketing" class="scroll-section relative home_promo_banner">
             <article class="container">
@@ -111,13 +99,9 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="background fullCoverImg-left agile-digital-bg-img digital-marketing"></div> -->
             </article>
         </section>
-
     </div>
-
-    <!-- Creative Srvice -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-4" style="background-image: url('./assets/images/home/creative-bg.jpg');">
         <section id="design_solution" class="scroll-section relative home_promo_banner">
             <article class="container">
@@ -141,13 +125,11 @@
                         </div>
                     </div>
                 </div>
-                <!--  <div class="background fullCoverImg learn-bg-img dnd_solutions_lead"></div> -->
             </article>
         </section>
 
     </div>
 
-    <!-- Development Solution -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 p_relate height-100vh parallax parallax-tn" id="parallax-5" style="background-image: url('./assets/images/home/development.jpg');">
         <section id="business_solution" class="scroll-section relative home_promo_banner">
             <article class="container relative">
@@ -174,11 +156,9 @@
                 </div>
 
             </article>
-            <!-- <div class="background fullCoverImg-left agile-digital-bg-img business-solutions"></div> -->
         </section>
     </div>
 
-    <!-- Enterprise Solution -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-6" style="background-image: url('./assets/images/home/enterprise-bg.jpg');">
         <section id="Enterprise" class="scroll-section relative home_promo_banner">
             <article class="container">
@@ -202,13 +182,9 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="background fullCoverImg learn-bg-img dnd_solutions_lead"></div> -->
             </article>
         </section>
-
     </div>
-
-    <!-- Portfolio -->
 
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax-tn" id="home_sec7" style="background-color: #fafafa;">
         <section id="our_portfolio" class="scroll-section portfoilo_row">
@@ -276,7 +252,6 @@
         </section>
     </div>
 
-    <!-- Get In Touch -->
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-7" style="background-image: url('./assets/images/home/touch-bg.jpg');">
         <section id="contact_us" class="scroll-section">
 

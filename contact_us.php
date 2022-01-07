@@ -36,6 +36,6 @@
                     </div>
                 </form>
             </div>
-        </div> <!-- contact_form -->
+        </div>
     </div>
 </article>

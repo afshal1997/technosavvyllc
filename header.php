@@ -49,10 +49,7 @@ $page = $arr2['0'];
 </head>
 
 <body class="page basepage basicpage <?php echo $page ?>">
-    <!-- Modal get in touch-->
     <div id="preloader"><img src="./assets/images/loader/techno-savvy-Loading.gif" /></div>
-
-
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -87,7 +84,6 @@ $page = $arr2['0'];
                         <div class="form-group">
                             <textarea class="form-control message" id="message-text" name="message" placeholder="Message*"></textarea>
                         </div>
-
                 </div>
                 <div class="modal-footer">
                     <button type="submit" id="submitForm" class="btn btn-primary btn btn-shutter-more text-uppercase fontweight600">Submit
@@ -100,16 +96,14 @@ $page = $arr2['0'];
     </div>
     <div>
         <div class="root responsivegrid">
-
             <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-
                 <div class="pagedetails parbase aem-GridColumn aem-GridColumn--default--12"></div>
                 <div class="header aem-GridColumn aem-GridColumn--default--12">
                     <header>
                         <nav class="navbar navbar-default navbar-fixed-top scrollbg-show " role="navigation">
                             <div class="container mt45">
                                 <div class="navbar-header page-scroll">
-                                    <a class="navbar-brand" href="https://technosavvyllc.com/">
+                                    <a class="navbar-brand" href="/">
                                         <img src="./assets/images/home/logo.svg" width="250">
                                     </a>
                                 </div>
@@ -135,16 +129,10 @@ $page = $arr2['0'];
                     </header>
                 </div>
                 <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
-
                     <div class="xf-content-height">
-
                         <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-
                             <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12">
-                                <!-- Custom CSS -->
                                 <link href="content/dam/web/burger-menu/en/css/burger-menu.css" rel="stylesheet">
-
-                                <!-- Burger Menu START -->
                                 <div class="burger-search-wrapper navbar-fixed-top">
                                     <div class="container">
                                         <div class="hamburger-menu">
@@ -153,22 +141,22 @@ $page = $arr2['0'];
                                             <div class="menu">
                                                 <div class="fix-menu hidden-sm hidden-xs">
                                                     <div class="col-md-9 col-sm-12 col-xs-12 automate" style="background:transparent; ">
-
                                                     </div>
                                                 </div>
-                                                <!-- Side Menu Title -->
                                                 <div class="col-md-3 col-sm-12 col-xs-12 menuItems" style="background-image: none;background-color:#0a0a0a; ">
                                                     <a href="/Techno Savvy">
                                                         <img src="./assets/images/home/logo.svg" alt="Techno Savvy" class="img-responsive logo-inner">
                                                     </a>
                                                     <ul class="list-unstyled">
-                                                        <li class="" title="Home"><a href="https://technosavvyllc.com/" title="Home" class="" target="_self">Home<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
-                                                            </a></li>
-                                                        <li class="" title="About Us"><a href="about.php" title="About Us" class="" target="_self">Our
-                                                                Story<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
-                                                            </a></li>
-                                        
-
+                                                        <li class="" title="Home">
+                                                            <a href="/" title="Home" class="" target="_self">
+                                                                Home<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="" title="About Us"><a href="about.php" title="About Us" class="" target="_self">
+                                                                Our Story<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
+                                                            </a>
+                                                        </li>
                                                         <li class="smalltext" title="Digital Marketing">
                                                             <a href="digital-marketing.php" title="Digital Marketing" class="hover-menu-hide" target="_self">
                                                                 Digital Marketing
@@ -177,14 +165,12 @@ $page = $arr2['0'];
                                                         </li>
                                                         <li class="smalltext" title="Creative Services">
                                                             <a href="creative-services.php" title="Creative Services" class="hover-menu-hide" target="_self">
-                                                                Creative Services
-                                                                <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
+                                                                Creative Services <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="smalltext" title="Development Solution">
                                                             <a href="developmentsolutions.php" title="Development Solution" class="hover-menu-hide" target="_self">
-                                                                Development Solution
-                                                                <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
+                                                                Development Solution <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="smalltext last-sma-text" title="Enterprise Solutions">
@@ -193,13 +179,16 @@ $page = $arr2['0'];
                                                                 <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
-
                                                         <li class="" title="Portfolio">
-                                                            <a href="portfolios.php" title="Portfolio" class="" target="_self">Portfolio<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
+                                                            <a href="portfolios.php" title="Portfolio" class="" target="_self">
+                                                                Portfolio<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
-                                                        <li class="" title="Contact"><a href="javascript:void(0)" title="Contact" class="contct-btn">Contact<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
-                                                            </a></li>
+                                                        <li class="" title="Contact">
+                                                            <a href="javascript:void(0)" title="Contact" class="contct-btn">
+                                                                Contact<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
+                                                            </a>
+                                                        </li>
                                                         <li class="social-icons" title="Facebook">
                                                             <a href="https://www.facebook.com/TechnoSavvyllc" title="Facebook" class="" target="_blank">
                                                                 <i class="fa fa-facebook"></i>
@@ -223,13 +212,8 @@ $page = $arr2['0'];
                                         </div>
                                     </div>
                                 </div>
-
-                                <!-- Burger Menu End -->
-                                <!-- Custom JS -->
                                 <script type="text/javascript" src="content/dam/web/burger-menu/en/js/burger-menu.js"></script>
-
                             </div>
-
                         </div>
                     </div>
                 </div>
