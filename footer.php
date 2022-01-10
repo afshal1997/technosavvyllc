@@ -22,10 +22,10 @@
                             <h3 class="ftr-head mt-xs-20">Quick Links</h3>
                             <ul class="list-unstyled footer-txt">
                                 <li><a href="https://technosavvyllc.com">Home</a></li>
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="portfolios.php">Portfolio</a></li>
-                                <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                                <li><a href="refund-policy.php">Refund Policy</a></li>
+                                <li><a href="about">About Us</a></li>
+                                <li><a href="portfolios">Portfolio</a></li>
+                                <li><a href="privacy-policy">Privacy Policy</a></li>
+                                <li><a href="refund-policy">Refund Policy</a></li>
                             </ul>
                         </div>
                     </div>
@@ -34,10 +34,10 @@
                         <h3 class="ftr-head mt-sm-20 mt-xs-20">Services</h3>
                         <ul class="list-unstyled footer-txt">
 
-                            <li><a href="digital-marketing.php">Digital Marketing </a></li>
-                            <li><a href="creative-services.php">Creative Services</a></li>
-                            <li><a href="developmentsolutions.php">Development Solutions</a></li>
-                            <li><a href="enterprisesolutions.php">Enterprise Solutions</a></li>
+                            <li><a href="digital-marketing">Digital Marketing </a></li>
+                            <li><a href="creative-services">Creative Services</a></li>
+                            <li><a href="developmentsolutions">Development Solutions</a></li>
+                            <li><a href="enterprisesolutions">Enterprise Solutions</a></li>
 
                         </ul>
                     </div>
@@ -561,7 +561,7 @@ if ($page == 'index') {
                         if (data.status == true) {
                             $('input').val('');
                             $('#exampleModal').modal('hide');
-                            window.location.href = 'https://technosavvyllc.com/thankyou.php';
+                            window.location.href = 'https://technosavvyllc.com/thankyou';
                         } else {
                             alert(data.message);
                         }
@@ -619,7 +619,7 @@ if ($page == 'index') {
                     success: function(data) {
                         if (data.status == true) {
                             $('input').val('');
-                            window.location.href = 'https://technosavvyllc.comthankyou.php';
+                            window.location.href = 'https://technosavvyllc.comthankyou';
                         } else {
                             alert(data.message);
                         }

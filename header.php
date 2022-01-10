@@ -153,34 +153,34 @@ $page = $arr2['0'];
                                                                 Home<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
-                                                        <li class="" title="About Us"><a href="about.php" title="About Us" class="" target="_self">
+                                                        <li class="" title="About Us"><a href="about" title="About Us" class="" target="_self">
                                                                 Our Story<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="smalltext" title="Digital Marketing">
-                                                            <a href="digital-marketing.php" title="Digital Marketing" class="hover-menu-hide" target="_self">
+                                                            <a href="digital-marketing" title="Digital Marketing" class="hover-menu-hide" target="_self">
                                                                 Digital Marketing
                                                                 <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="smalltext" title="Creative Services">
-                                                            <a href="creative-services.php" title="Creative Services" class="hover-menu-hide" target="_self">
+                                                            <a href="creative-services" title="Creative Services" class="hover-menu-hide" target="_self">
                                                                 Creative Services <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="smalltext" title="Development Solution">
-                                                            <a href="developmentsolutions.php" title="Development Solution" class="hover-menu-hide" target="_self">
+                                                            <a href="developmentsolutions" title="Development Solution" class="hover-menu-hide" target="_self">
                                                                 Development Solution <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="smalltext last-sma-text" title="Enterprise Solutions">
-                                                            <a href="enterprisesolutions.php" title="Enterprise Solutions" class="hover-menu-hide" target="_self">
+                                                            <a href="enterprisesolutions" title="Enterprise Solutions" class="hover-menu-hide" target="_self">
                                                                 Enterprise Solutions
                                                                 <span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
                                                         <li class="" title="Portfolio">
-                                                            <a href="portfolios.php" title="Portfolio" class="" target="_self">
+                                                            <a href="portfolios" title="Portfolio" class="" target="_self">
                                                                 Portfolio<span class="un-line hidden-sm hidden-xs hidden-tab"></span>
                                                             </a>
                                                         </li>
