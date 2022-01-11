@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12 with-text-footer col-foot col-foot1">
                         <div class="footer-logo">
-                            <img src="./assets/images/home/logo.svg" />
+                            <img src="./assets/images/home/logo.svg" alt="technosavvyllc logo" />
                         </div>
                         <div class="footer-text">
                             <p>

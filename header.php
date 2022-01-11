@@ -22,8 +22,8 @@ $page = $arr2['0'];
     <meta name="author" Content="Techno Savvy LLC" />
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favico.png" />
     <link rel="icon" type="image/png" href="./assets/images/favico.png" sizes="32x32" />
-    <title>Techno Savvy | Providing Sound Successful Solutions to All</title>
     <meta property="og:url" content="index.html">
+    <title>Techno Savvy | Providing Sound Successful Solutions to All</title>
     <link rel="canonical" href="index.html">
 
     <meta name="template" content="content-page" />
@@ -49,12 +49,12 @@ $page = $arr2['0'];
 </head>
 
 <body class="page basepage basicpage <?php echo $page ?>">
-    <div id="preloader"><img src="./assets/images/loader/techno-savvy-Loading.gif" /></div>
+    <div id="preloader"><img src="./assets/images/loader/techno-savvy-Loading.gif" alt="techno-savvy-Loading-preloader" /></div>
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <img src="./assets/images/home/logo.svg">
+                    <img src="./assets/images/home/logo.svg" alt="technosavvyllc logo">
                     <h2 class="modal-title" id="exampleModalLabel">get a Quote</h2>
                     <p> Let's get started on your project! Fill out the form below and our team will contact you promptly! </p>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -104,7 +104,7 @@ $page = $arr2['0'];
                             <div class="container mt45">
                                 <div class="navbar-header page-scroll">
                                     <a class="navbar-brand" href="/">
-                                        <img src="./assets/images/home/logo.svg" width="250">
+                                        <img src="./assets/images/home/logo.svg" alt="technosavvyllc logo" width="250">
                                     </a>
                                 </div>
                                 <div class="header-menu hidden-tab">

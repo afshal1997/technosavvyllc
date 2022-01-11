@@ -1,4 +1,4 @@
-<?php include_once('header.php');?>
+<?php include_once('header.php'); ?>
 <!-- Inner Page Banner Start-->
 <div class="inner-page">
   <div class="slider-item" style="background-image: url('assets/images/digital/digital-bg.jpg');">
@@ -10,7 +10,7 @@
         </div>
         <div class="col-lg-6 col-sm-12 col-xs-12">
           <div class="img-in-ban">
-            <img src="assets/images/digital/didital-img.png">
+            <img alt="alt-text" src="assets/images/digital/didital-img.png">
           </div>
         </div>
       </div>
@@ -69,62 +69,62 @@
     <!-- 1 -->
     <div class="row repeatr-paragon">
       <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 cont-paragon">
-          <div>
-            <h4>Social Media Marketing</h4>
-            <h3>Interrelate & Engage Your Audience</h3>
-            <p class="">
-                <span>
-                    Social media is the robust superpower of Techno Savvy, aspires to enrich the brand's perspective, engagement, and conversion. We disseminate your social media presence that enables your brand message to be digitally seen, heard, and acknowledged. 
-                </span>
-            </p>
+        <div>
+          <h4>Social Media Marketing</h4>
+          <h3>Interrelate & Engage Your Audience</h3>
+          <p class="">
+            <span>
+              Social media is the robust superpower of Techno Savvy, aspires to enrich the brand's perspective, engagement, and conversion. We disseminate your social media presence that enables your brand message to be digitally seen, heard, and acknowledged.
+            </span>
+          </p>
 
-            <p class="">
-                <a href="#" title="Read More" class="btn btn-shutter-more text-uppercase fontweight600" data-toggle="modal" data-target="#exampleModal">Get a Quote</a>
-            </p>
-          </div>
+          <p class="">
+            <a href="#" title="Read More" class="btn btn-shutter-more text-uppercase fontweight600" data-toggle="modal" data-target="#exampleModal">Get a Quote</a>
+          </p>
+        </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 image-paragon">
-          <img src="./assets/images/digital/social-img.png">
+        <img alt="alt-text" src="./assets/images/digital/social-img.png">
       </div>
     </div>
     <!-- 2 -->
     <div class="row repeatr-paragon">
       <div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 image-paragon">
-          <img src="./assets/images/digital/seo-img.png">
+        <img alt="alt-text" src="./assets/images/digital/seo-img.png">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 cont-paragon">
-          <div>
-            <h4>Search Engine Optimization</h4>
-            <h3>Advance Your Website's Online Visibility</h3>
-            <p class="">
-                <span>
-                    Bringing organic traffic to your site, we stimulate your website in biding on top of the advanced search engines, where potential customers can find you forthwith.
-                </span>
-            </p>
-            <p class="">
-                <a href="#" title="Read More" class="btn btn-shutter-more text-uppercase fontweight600" data-toggle="modal" data-target="#exampleModal">Get a Quote</a>
-            </p>
-          </div>
+        <div>
+          <h4>Search Engine Optimization</h4>
+          <h3>Advance Your Website's Online Visibility</h3>
+          <p class="">
+            <span>
+              Bringing organic traffic to your site, we stimulate your website in biding on top of the advanced search engines, where potential customers can find you forthwith.
+            </span>
+          </p>
+          <p class="">
+            <a href="#" title="Read More" class="btn btn-shutter-more text-uppercase fontweight600" data-toggle="modal" data-target="#exampleModal">Get a Quote</a>
+          </p>
+        </div>
       </div>
     </div>
     <!-- 3 -->
     <div class="row repeatr-paragon">
       <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 cont-paragon">
-          <div>
-            <h4>Advertising & PPC</h4>
-            <h3>Cost-Effective Solution for Increasing Traffic</h3>
-            <p class="">
-                <span>
-                    Acquire potential leads, evoke past customers, and curtail additional cost with effective paid media marketing to appear in front of the right audience.
-                </span>
-            </p>
-            <p class="">
-                <a href="#" title="Read More" class="btn btn-shutter-more text-uppercase fontweight600" data-toggle="modal" data-target="#exampleModal">Get a Quote</a>
-            </p>
-          </div>
+        <div>
+          <h4>Advertising & PPC</h4>
+          <h3>Cost-Effective Solution for Increasing Traffic</h3>
+          <p class="">
+            <span>
+              Acquire potential leads, evoke past customers, and curtail additional cost with effective paid media marketing to appear in front of the right audience.
+            </span>
+          </p>
+          <p class="">
+            <a href="#" title="Read More" class="btn btn-shutter-more text-uppercase fontweight600" data-toggle="modal" data-target="#exampleModal">Get a Quote</a>
+          </p>
+        </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 image-paragon">
-          <img src="./assets/images/digital/ad-ppc.png">
+        <img src="./assets/images/digital/ad-ppc.png" alt="ad-ppc">
       </div>
     </div>
   </div>
@@ -141,11 +141,11 @@
         <div class="digital-port-repeater">
           <div class="row">
             <div class="port-dig-img col-md-12">
-              <img src="./assets/images/digital/port2.jpg">
+              <img alt="assets/images/digital" src="./assets/images/digital/port2.jpg">
             </div>
             <div class="col-md-2 port-small-img">
               <div class="">
-                <img src="./assets/images/digital/port2-logo.png">
+                <img alt="assets/images/digital" src="./assets/images/digital/port2-logo.png">
               </div>
             </div>
             <div class="col-md-8 port-digi-cont">
@@ -160,11 +160,11 @@
         <div class="digital-port-repeater">
           <div class="row">
             <div class="port-dig-img col-md-12">
-              <img src="./assets/images/digital/port1.jpg">
+              <img alt="alt-image" src="./assets/images/digital/port1.jpg">
             </div>
             <div class="col-md-2 port-small-img">
               <div class="">
-                <img src="./assets/images/digital/port1-logo.png">
+                <img alt="alt-image" src="./assets/images/digital/port1-logo.png">
               </div>
             </div>
             <div class="col-md-8 port-digi-cont">
@@ -179,11 +179,11 @@
         <div class="digital-port-repeater">
           <div class="row">
             <div class="port-dig-img col-md-12">
-              <img src="./assets/images/digital/port3.jpg">
+              <img alt="alt-image" src="./assets/images/digital/port3.jpg">
             </div>
             <div class="col-md-2 port-small-img">
               <div class="">
-                <img src="./assets/images/digital/port3-logo.png">
+                <img alt="alt-image" src="./assets/images/digital/port3-logo.png">
               </div>
             </div>
             <div class="col-md-8 port-digi-cont">
@@ -220,81 +220,44 @@
 <!-- Portfolio Section End -->
 
 <!-- Get In Touch -->
-<div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-7"  style="background-image: url('./assets/images/common/digital-get-in-touch.jpg');">
-    <section id="contact_us" class="scroll-section">
-             <?php
-                include "contact_us.php";
+<div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-7" style="background-image: url('./assets/images/common/digital-get-in-touch.jpg');">
+  <section id="contact_us" class="scroll-section">
+    <?php
+    include "contact_us.php";
 
-                ?>
-
-        <!--<article class="container">-->
-        <!--    <div class="row_def">-->
-        <!--        <div class="col-md-6 col-sm-12 contact_form-img image-div" data-aos="">-->
-        <!--            <div class="img-div">-->
-        <!--                <img src="./assets/images/home/touch-img1.png" class="hidden-xs">-->
-        <!--                <img src="./assets/images/home/touch-img11.png" class="visible-xs">-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--        <div class="col-md-6 col-sm-12 contact_form full_width_100 cont-div" data-aos="">-->
-        <!--            <div class="inner_contact_row">-->
-        <!--                <h4>Get in Touch!</h4>-->
-        <!--                <p>We create experiences that brands live by. Get in Touch for the best services quickly.</p>-->
-        <!--                <form class="contact mb20 mb-xs-10 mt50 mt-xs-0 " action="#" method="post">-->
-        <!--                    <div class="col-sm-6">-->
-        <!--                        <input type="text" name="" placeholder="First Name *">-->
-        <!--                    </div>-->
-        <!--                    <div class="col-sm-6">-->
-        <!--                        <input type="email" name="" placeholder="Email Address *">-->
-        <!--                    </div>-->
-        <!--                    <div class="col-sm-6">-->
-        <!--                        <input type="text" name="" placeholder="Phone Number *">-->
-        <!--                    </div>-->
-        <!--                    <div class="col-sm-6">-->
-        <!--                        <input type="text" name="" placeholder="Subject *">-->
-        <!--                    </div>-->
-        <!--                    <div class="col-sm-12">-->
-        <!--                        <textarea  name="" placeholder="Enter Your Message Here ..."></textarea> -->
-        <!--                    </div> -->
-        <!--                    <div class="col-sm-12">-->
-        <!--                        <input type="submit" name="" value="Submit Now">  -->
-        <!--                    </div>-->
-        <!--                </form>-->
-        <!--            </div>-->
-        <!--        </div> <!-- contact_form -->-->
-        <!--    </div>-->
-        <!--</article>-->
-        <div class="bottom-row-contact" style="display: none;">
-            <article class="container">
-                <div class="col-md-12 col-sm-12 bottom_contact" data-aos="">
-                    <div class="inner_con">
-                        <div class="row">
-                            <div class="col-sm-6 info">
-                                <p>
-                                    <img src="./assets/images/home/locate.png"> 
-                                    <span>309 Fellowship Road, East Gate Center, Suite 200, Mt Laurel Township, NJ 08054</span>
-                                </p>
-                            </div>  
-                            <div class="info-main col-sm-6 info">
-                                <div class="info-in">
-                                    <p>
-                                        <a href="tel:+1 (609) 775 9538">+1 (609) 775 9538</a>
-                                        <img src="./assets/images/home/ph-f.png">
-                                    </p>
-                                </div>    
-                                <div class="info-in">
-                                    <p>
-                                        <a href="mailto:info@technosavvyllc.com">info@technosavvyllc.com</a>
-                                        <img src="./assets/images/home/mail.png">
-                                    </p>
-                                </div>      
-                            </div>
-                        </div>
-                    </div>
+    ?>
+    <div class="bottom-row-contact" style="display: none;">
+      <article class="container">
+        <div class="col-md-12 col-sm-12 bottom_contact" data-aos="">
+          <div class="inner_con">
+            <div class="row">
+              <div class="col-sm-6 info">
+                <p>
+                  <img alt="alt-image" src="./assets/images/home/locate.png">
+                  <span>309 Fellowship Road, East Gate Center, Suite 200, Mt Laurel Township, NJ 08054</span>
+                </p>
+              </div>
+              <div class="info-main col-sm-6 info">
+                <div class="info-in">
+                  <p>
+                    <a href="tel:+1 (609) 775 9538">+1 (609) 775 9538</a>
+                    <img alt="alt-image" src="./assets/images/home/ph-f.png">
+                  </p>
                 </div>
-            </article>
+                <div class="info-in">
+                  <p>
+                    <a href="mailto:info@technosavvyllc.com">info@technosavvyllc.com</a>
+                    <img alt="alt-image" src="./assets/images/home/mail.png">
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-    </section>
+      </article>
+    </div>
+  </section>
 </div>
 
-  <!-- END section -->
-<?php include_once('footer.php');?>
+<!-- END section -->
+<?php include_once('footer.php'); ?>

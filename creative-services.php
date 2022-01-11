@@ -1,5 +1,4 @@
 <?php include_once('header.php'); ?>
-<!-- Inner Page Banner Start-->
 <div class="inner-page">
   <div class="slider-item" style="background-image: url('assets/images/creative/creative-bg.jpg');">
     <div class="container">
@@ -17,9 +16,6 @@
     </div>
   </div>
 </div>
-<!-- Inner Page Banner End-->
-
-<!-- Creative Process Start -->
 <div class="section creative-process pt-120 pb-120">
   <div class="container">
     <div class="row">
@@ -33,26 +29,7 @@
       </div>
     </div>
     <div class="crative-process">
-      <!-- 1 -->
-      <!-- <div class="row creative-one hidden-xs hidden-sm">
-        <div class="col-md-1"></div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-          <h4>Wire Framing</h4>
-          <p>Lorem Ipsum is simply dummy text of the printing and </p>
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-          <h4>Review</h4>
-          <p>Lorem Ipsum is simply dummy text of the printing and  </p>
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-1"></div>
-      </div> -->
-      <!-- 2 -->
+
       <div class="row creative-two hidden-xs hidden-sm">
         <div class="col-md-12">
           <div class="img-process">
@@ -60,28 +37,7 @@
           </div>
         </div>
       </div>
-      <!-- 3 -->
-      <!-- <div class="row creative-three hidden-xs hidden-sm">
-        <div class="col-md-1"></div>
-        <div class="col-md-2">
-          <h4>Concept</h4>
-          <p>Lorem Ipsum is simply dummy text of the printing and </p>
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-          <h4>Mockup</h4>
-          <p>Lorem Ipsum is simply dummy text of the printing and  </p>
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-          <h4>Final Design</h4>
-          <p>Lorem Ipsum is simply dummy text of the printing and  </p>
-        </div>
-        <div class="col-md-1"></div>
-      </div> -->
-      <!-- 4 -->
+      
       <div class="row creative-4 hidden-lg hidden-md">
         <div class="col-sm-6 col-xs-12">
           <img src="assets/images/creative/1.png" />
@@ -258,42 +214,7 @@
 
     ?>
 
-    <!--<article class="container">-->
-    <!--    <div class="row_def">-->
-    <!--        <div class="col-md-6 col-sm-12 contact_form-img image-div" data-aos="">-->
-    <!--            <div class="img-div">-->
-    <!--                <img src="./assets/images/home/touch-img1.png" class="hidden-xs">-->
-    <!--                <img src="./assets/images/home/touch-img11.png" class="visible-xs">-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--        <div class="col-md-6 col-sm-12 contact_form full_width_100 cont-div" data-aos="">-->
-    <!--            <div class="inner_contact_row">-->
-    <!--                <h4>Get in Touch!</h4>-->
-    <!--                <p>We create experiences that brands live by. Get in Touch for the best services quickly.</p>-->
-    <!--                <form class="contact mb20 mb-xs-10 mt50 mt-xs-0 " action="#" method="post">-->
-    <!--                    <div class="col-sm-6">-->
-    <!--                        <input type="text" name="" placeholder="First Name *">-->
-    <!--                    </div>-->
-    <!--                    <div class="col-sm-6">-->
-    <!--                        <input type="email" name="" placeholder="Email Address *">-->
-    <!--                    </div>-->
-    <!--                    <div class="col-sm-6">-->
-    <!--                        <input type="text" name="" placeholder="Phone Number *">-->
-    <!--                    </div>-->
-    <!--                    <div class="col-sm-6">-->
-    <!--                        <input type="text" name="" placeholder="Subject *">-->
-    <!--                    </div>-->
-    <!--                    <div class="col-sm-12">-->
-    <!--                        <textarea  name="" placeholder="Enter Your Message Here ..."></textarea> -->
-    <!--                    </div> -->
-    <!--                    <div class="col-sm-12">-->
-    <!--                        <input type="submit" name="" value="Submit Now">  -->
-    <!--                    </div>-->
-    <!--                </form>-->
-    <!--            </div>-->
-    <!--        </div> <!-- contact_form -->-->
-    <!--    </div>-->
-    <!--</article>-->
+
     <div class="bottom-row-contact" style="display: none;">
       <article class="container">
         <div class="col-md-12 col-sm-12 bottom_contact" data-aos="">
@@ -301,7 +222,7 @@
             <div class="row">
               <div class="col-sm-6 info">
                 <p>
-                  <img src="./assets/images/home/locate.png">
+                  <img src="./assets/images/home/locate.png" alt="assets/images/home/locate">
                   <span>309 Fellowship Road, East Gate Center, Suite 200, Mt Laurel Township, NJ 08054</span>
                 </p>
               </div>
@@ -309,13 +230,13 @@
                 <div class="info-in">
                   <p>
                     <a href="tel:+1 (609) 775 9538">+1 (609) 775 9538</a>
-                    <img src="./assets/images/home/ph-f.png">
+                    <img src="./assets/images/home/ph-f.png" alt="assets/images/home/ph-f">
                   </p>
                 </div>
                 <div class="info-in">
                   <p>
                     <a href="mailto:info@technosavvyllc.com">info@technosavvyllc.com</a>
-                    <img src="./assets/images/home/mail.png">
+                    <img src="./assets/images/home/mail.png" alt="assets/images/home/mail.png">
                   </p>
                 </div>
               </div>
