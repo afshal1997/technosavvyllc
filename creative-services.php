@@ -1,4 +1,4 @@
-<?php include_once('header.php'); ?>
+<?php include_once('commonFiles/header.php'); ?>
 <div class="inner-page">
   <div class="slider-item" style="background-image: url('assets/images/creative/creative-bg.jpg');">
     <div class="container">
@@ -249,4 +249,4 @@
 </div>
 
 <!-- END section -->
-<?php include_once('footer.php'); ?>
+<?php include_once('commonFiles/footer.php'); ?>

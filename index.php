@@ -1,4 +1,4 @@
-    <?php include_once('header.php'); ?>
+    <?php include_once('commonFiles/header.php'); ?>
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 parallax parallax-tn" id="parallax-1" style="background-image: url('./assets/images/home/banner.jpeg');">
         <section id="hero_slider" class="scroll-section">
             <article class="container-fluid slider">
@@ -9,9 +9,12 @@
                             <div class="container">
                                 <div class="row sam-logo-ban">
                                     <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 first_col" data-aos="">
-                                        <h1 class="h2-heading white-color mb-xs-10"><strong>A scintillating retort to the digital question mark!</strong></h1>
-                                        <h3>Dignify & digitalize the countenance of your inestimable business by perpetuating its digital trail, engraving its achievements, and augmenting your ROI by choosing the comprehensive Government affiliated solution.</h3>
-                                        <a href="javascript:void(0)" class="btn btn-shutter-more text-uppercase">EXPLORE MORE</a>
+                                        <h1 class="h2-heading white-color mb-xs-10">
+                                            <strong>A scintillating retort to the digital question mark!</strong>
+                                        </h1>
+                                        <h3>
+                                            Dignify & digitalize the countenance of your inestimable business by perpetuating its digital trail, engraving its achievements, and augmenting your ROI by choosing the comprehensive Government affiliated solution.
+                                        </h3>
                                     </div>
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 with-sam-logo" data-aos="fade-up">
                                         <img src="./assets/images/home/sam-img.png">
@@ -29,7 +32,7 @@
                 <div class="container">
                     <div class="row associate-main">
                         <div class="col-lg-4 associate-with-title">
-                            <h2>associated with </h2>
+                            <h2>associated with</h2>
                         </div>
                         <div class="col-lg-8 associate-with-slides">
                             <div class="associate-with-img">
@@ -254,13 +257,7 @@
 
     <div class="freeflowhtml aem-GridColumn aem-GridColumn--default--12 height-100vh parallax parallax-tn" id="parallax-7" style="background-image: url('./assets/images/home/touch-bg.jpg');">
         <section id="contact_us" class="scroll-section">
-
-            <?php
-            include "contact_us.php";
-
-            ?>
-
-
+            <?php include "contact_us.php"; ?>
             <div class="bottom-row-contact" style="display: none;">
                 <article class="container">
                     <div class="col-md-12 col-sm-12 bottom_contact" data-aos="">
@@ -293,4 +290,5 @@
             </div>
         </section>
     </div>
-    <?php include_once('footer.php'); ?>
+
+    <?php include_once('commonFiles/footer.php'); ?>
